@@ -1,0 +1,11 @@
+bin/
+obj/
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+packages/
+*.nupkg
+.DS_Store
