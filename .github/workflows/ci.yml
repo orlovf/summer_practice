@@ -2,9 +2,7 @@ name: .NET CI
 
 on:
   push:
-    branches: [ task01 ]
   pull_request:
-    branches: [ task01 ]
 
 jobs:
   build-and-test:
